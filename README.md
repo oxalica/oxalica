@@ -6,7 +6,7 @@ Hi! I am oxalica, or `oxa` for short. Typical usernames are `oxalica` and `oxali
 - 🌱 Interest: Compiler, type theory and Risc-V.
 - 🔨 Using: Rust 🦀 on NixOS ❄.
 - 😄 Pronouns: she/her
-- 💬 E-mail is welcome.
+- 💬 Matrix: `@oxalica:matrix.org`
 
 <details>
 <summary><small>Buy me a ☕️ if you like my projects</small></summary>
