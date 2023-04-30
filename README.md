@@ -9,9 +9,10 @@ Hi! I am oxalica, or `oxa` for short. Typical usernames are `oxalica` and `oxali
 - 💬 Matrix: `@oxalica:matrix.org`
 
 <details>
-<summary><small>Buy me a ☕️ if you like my projects</small></summary>
+<summary>☕️ Sponsor me!</summary>
 
-- Your stars and follows are the biggest support to me! Thanks!
+- Patreon: https://www.patreon.com/oxalica
+
 - BTC: `bc1qjfj5lsnn7lpkphu4m7ec6kegqjuq6v7t3zl9w5`
 - BCH: `bitcoincash:qqumsfsv0nu8ukynqzstynu0sm5vcad0ky8qn392fm`
 - XMR: `84FL9FVDpnGYLWTQ58Wqe16Cp14yXhSvzZM3AdzTy59HbYLoPnmhGw88YC6fT5h38rCGqC9raJHY35yZQc971AoWNSbDjBt`
